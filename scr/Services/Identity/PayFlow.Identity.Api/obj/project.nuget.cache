@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NVVEDfOuvE=",
+  "success": true,
+  "projectFilePath": "C:\\Payflow\\payflow\\scr\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91700\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\91700\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/scr/" />
+  <Folder Name="/scr/Services/" />
+  <Folder Name="/scr/Services/Identity/">
+    <Project Path="scr/Services/Identity/PayFlow.Identity.Api/PayFlow.Identity.Api.csproj" />
+  </Folder>
+  <Folder Name="/scr/Shared/">
+    <Project Path="scr/Shared/PayFlow.Shared.Contracts/PayFlow.Shared.Contracts.csproj" />
+  </Folder>
+</Solution>
