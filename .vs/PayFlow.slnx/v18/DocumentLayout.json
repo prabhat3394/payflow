@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Payflow\\payflow\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-02T20:25:47.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.json",
+              "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-02T20:11:15.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Services\\TokenService.cs",
@@ -54,12 +88,11 @@
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Services\\TokenService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T19:29:33.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T19:29:33.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Program.cs",
@@ -72,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Controllers\\AuthController.cs",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAzwBAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T18:44:22.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T18:44:22.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "LoginCommand.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
@@ -93,12 +125,11 @@
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAwwBcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T18:21:54.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T18:21:54.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RegisterUserCommand.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\RegisterUserCommand.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\RegisterUserCommand.cs",
@@ -106,12 +137,11 @@
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\RegisterUserCommand.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAYwDEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T12:04:19.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T12:04:19.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Behaviors\\ValidationBehavior.cs",
@@ -119,12 +149,11 @@
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Behaviors\\ValidationBehavior.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T11:24:59.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T11:24:59.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IdentityDbContext.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\IdentityDbContext.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\IdentityDbContext.cs",
@@ -132,12 +161,11 @@
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\IdentityDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T20:15:35.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T20:15:35.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Domain\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Domain\\Entities\\AppUser.cs",
@@ -145,8 +173,7 @@
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Domain\\Entities\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T20:11:33.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T20:11:33.399Z"
             }
           ]
         }
