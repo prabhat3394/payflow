@@ -2,12 +2,12 @@ using FluentValidation;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using PayFlow.Identity.Api.Application.Behaviors;
 using PayFlow.Identity.Api.Application.Commands;
 using PayFlow.Identity.Api.Domain.Entities;
+using PayFlow.Identity.Api.Infrastructure.Persistence;
 using PayFlow.Identity.Api.Infrastructure.Services;
 using System.Text;
 
@@ -25,7 +25,7 @@ builder.Services.AddSwaggerGen();
 // ---------------------------------------------------------------
 // 2. DATABASE
 // ---------------------------------------------------------------
-builder.Services.AddDbContext<IdentityDbContext>(options =>
+builder.Services.AddDbContext<AppIdentityDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("IdentityDb")));
 
 // ---------------------------------------------------------------
@@ -37,13 +37,12 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options => {
     options.Password.RequireUppercase = true;
     options.Password.RequiredLength = 8;
     options.User.RequireUniqueEmail = true;
-}).AddEntityFrameworkStores<IdentityDbContext>()
+}).AddEntityFrameworkStores<AppIdentityDbContext>()
   .AddDefaultTokenProviders();
 
 // ---------------------------------------------------------------
 // 4. JWT AUTHENTICATION
 // ---------------------------------------------------------------
-var jwtSecret = builder.Configuration["Jwt:SecretKey"];
 
 builder.Services.AddAuthentication(options =>
 {
@@ -59,7 +58,7 @@ builder.Services.AddAuthentication(options =>
         ValidateIssuerSigningKey = true,
         ValidIssuer = builder.Configuration["Jwt:Issuer"],
         ValidAudience = builder.Configuration["Jwt:Audience"],
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSecret)),
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:SecretKey"])),
     };
 });
 

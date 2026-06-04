@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PayFlow.Shared.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad1632934911013a0b999a43da9b0643ccdbdd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+958a5fbedbb03d158d5b0023d35ddb45d42dd797")]
 [assembly: System.Reflection.AssemblyProductAttribute("PayFlow.Shared.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PayFlow.Shared.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

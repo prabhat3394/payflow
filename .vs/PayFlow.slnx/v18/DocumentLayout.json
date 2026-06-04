@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\payflow.identity.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\payflow.identity.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\infrastructure\\persistence\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\infrastructure\\persistence\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\infrastructure\\persistence\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\infrastructure\\persistence\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|solutionrelative:src\\services\\identity\\payflow.identity.api\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10EBDC6D-AC0B-B466-D16D-4D03D91245E3}|src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj|c:\\payflow\\payflow\\src\\services\\identity\\payflow.identity.api\\application\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,72 +60,59 @@
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.Development.json",
               "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.Development.json",
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-02T20:25:47.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.json",
-              "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.json",
-              "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-02T20:11:15.406Z",
+              "WhenOpened": "2026-06-03T09:28:17.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PayFlow.Identity.Api.csproj",
+              "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj",
+              "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj",
+              "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\PayFlow.Identity.Api.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-03T08:16:37.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Services\\TokenService.cs",
               "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Services\\TokenService.cs",
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Services\\TokenService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T19:29:33.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Program.cs",
               "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Program.cs",
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADwAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T19:02:40.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Controllers\\AuthController.cs",
               "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T18:44:22.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginCommand.cs",
-              "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
-              "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
-              "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBcAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T18:21:54.934Z"
             },
             {
               "$type": "Document",
@@ -153,19 +140,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IdentityDbContext.cs",
-              "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\IdentityDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\IdentityDbContext.cs",
-              "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\IdentityDbContext.cs",
-              "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\IdentityDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\AppIdentityDbContext.cs",
+              "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Infrastructure\\Persistence\\AppIdentityDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T20:15:35.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
+              "ToolTip": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
+              "RelativeToolTip": "src\\Services\\Identity\\PayFlow.Identity.Api\\Application\\Commands\\LoginCommand.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T18:21:54.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Payflow\\payflow\\src\\Services\\Identity\\PayFlow.Identity.Api\\Domain\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "src\\Services\\Identity\\PayFlow.Identity.Api\\Domain\\Entities\\AppUser.cs",
