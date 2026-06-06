@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PayFlow.Identity.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+958a5fbedbb03d158d5b0023d35ddb45d42dd797")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda01083d056c4febe9129d0a782b691a3c8b9d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PayFlow.Identity.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PayFlow.Identity.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

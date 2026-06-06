@@ -9,6 +9,7 @@ using PayFlow.Identity.Api.Application.Commands;
 using PayFlow.Identity.Api.Domain.Entities;
 using PayFlow.Identity.Api.Infrastructure.Persistence;
 using PayFlow.Identity.Api.Infrastructure.Services;
+using Scalar.AspNetCore;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,12 +17,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 // ---------------------------------------------------------------
-// 1. CONTROLLERS & SWAGGER
+// 1. CONTROLLERS & SCALAR UI
 // ---------------------------------------------------------------
 builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
+builder.Services.AddOpenApi();
 // ---------------------------------------------------------------
 // 2. DATABASE
 // ---------------------------------------------------------------
@@ -91,8 +90,13 @@ var app = builder.Build();
 // Configure the HTTP request middleware pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    app.MapOpenApi();
+    app.MapScalarApiReference(options =>
+    {
+        options.Title = "PayFlow Identity API";
+        options.Theme = ScalarTheme.DeepSpace;
+        options.DefaultHttpClient = new(ScalarTarget.CSharp, ScalarClient.HttpClient);
+    });
 }
 
 app.UseHttpsRedirection();
